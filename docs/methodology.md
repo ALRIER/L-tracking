@@ -1,0 +1,3 @@
+# Methodology
+
+Entries are reconstructed from the closed sequential nutrition logs and conversation. Day IDs are not calendar dates. All estimates are approximate unless derived from packaging. Keep extra calories separate when their macro composition is unknown. Daily targets: 1,900 kcal and 125 g protein. Do not subtract exercise calories from food intake. Record revisions explicitly rather than silently replacing history. Day 19 Muu snack label indicates 90 kcal instead of earlier 140 kcal; correction remains pending, so final day total is unchanged. Body weight and measurements are not invented.
