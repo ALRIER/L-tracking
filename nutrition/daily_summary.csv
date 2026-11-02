@@ -28,3 +28,5 @@ day_id,calendar_date,calories_kcal,protein_g,carbohydrates_g,fat_g,goal_kcal,sta
 27,,1650,134,140,63,1900,closed,estimated
 28,2026-10-29,1628,129,148,60,1900,closed,estimated
 29,2026-10-30,1855,112,215,66,1900,closed,estimated
+30,2026-10-31,1506,144,68,72,1800,open,estimated
+31,2026-11-01,1618,127,100,67,1800,closed,estimated
