@@ -1,6 +1,6 @@
 # Day 32 — 2026-11-02
 
-**Status:** open (saved snapshot)
+**Status:** closed
 
 | Metric | Recorded estimate |
 |---|---:|
@@ -40,4 +40,4 @@
 ## Traceability and revisions
 The original total was approximately 1,744 kcal, 121 g protein, 169 g carbohydrates and 64 g fat. Replacing the misinterpreted corn-and-cheese cup with a Don Maíz con Queso arepa changed totals to ≈1,704 kcal, 119 g protein, 161 g carbohydrates and 62 g fat. An additional half Alani shake brought the running totals to ≈1,794 kcal, 134 g protein, 164 g carbohydrates and 64 g fat.
 
-Values are estimated, especially the PC sausage variety, cooked pasta weight and dairy portion sizes. The day is saved as open until explicitly closed.
+Values are estimated, especially the PC sausage variety, cooked pasta weight and dairy portion sizes. The day was explicitly closed after the final nutrition entry.
